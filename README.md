@@ -26,7 +26,7 @@ Plotting using matplotlib only
   Listing 5:
     - Make predictions on the validation dataset
 
-Part2:
+Part 2:
 Plotting using matplotlib only
   Listing 6:
   - Pairwise Pearson Correlation
@@ -44,4 +44,4 @@ Plotting using matplotlib only
 Part 3
 Complete any 8 calculations and plotting using seaborn packages which are not included into the previous calculations and plotting with matplotlib. Four of these should be related to PCA.
   Listing 8:
-  - 
+  - (need to continue)
