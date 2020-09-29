@@ -1,4 +1,4 @@
-# Neural-Net-DL-Stats-Classification
+# Neural Networks & Deep Learning: Classification
 Descriptive Statistics, Classification and Analysis Using Python &amp; Python Libraries
 
 Used the Wine Quality Dataset
